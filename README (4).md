@@ -590,4 +590,4 @@ AWS CloudFormation (YAML), Amazon VPC, EC2, Apache2 on Ubuntu, Three.js, HTML/CS
 
 ## Author
 
-**Shaan027**
+**Shantanu Gawai**## [GitHub](https://github.com/Shaan027) | [LinkedIn](https://www.linkedin.com/in/your-profile-link)
